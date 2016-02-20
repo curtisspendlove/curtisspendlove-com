@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.1">Jekyll</generator><link href="https://curtisspendlove.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curtisspendlove.com/" rel="alternate" type="text/html" /><updated>2016-02-19T19:20:26-07:00</updated><id>https://curtisspendlove.com/</id><title>Curtis Spendlove</title><entry><title>Getting Started with Github</title><link href="https://curtisspendlove.com/article/2016/02/16/getting-started-with-github.html" rel="alternate" type="text/html" title="Getting Started with Github" /><published>2016-02-16T00:00:00-07:00</published><updated>2016-02-16T00:00:00-07:00</updated><id>https://curtisspendlove.com/article/2016/02/16/getting-started-with-github</id><content type="html" xml:base="https://curtisspendlove.com/article/2016/02/16/getting-started-with-github.html">&lt;p&gt;Over the course of the past decade &lt;a href=&quot;https://git-scm.com&quot;&gt;git&lt;/a&gt; claimed the throne as the de-facto standard distributed version control system. Likewise, &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; surfaced as the canonical option to host both public and private source code repositories.&lt;/p&gt;
+
+&lt;h2 id=&quot;create-your-github-account&quot;&gt;Create Your Github Account&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dot-com.png&quot; alt=&quot;Github Home Page&quot; title=&quot;Github&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using Github is a fairly painless process. Creating an account is a straight-forward process. Simply enter the requested information and click the giant “Sign Up” button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dot-com-signup.png&quot; alt=&quot;&quot; title=&quot;Github Signup Form&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Assuming all is well, you should be forwarded to a successful welcome page explaining a bit about the service.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dot-com-welcome.png&quot; alt=&quot;&quot; title=&quot;Github Welcome Page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a good idea to read through this information (at least skim it for future reference) so that you’re aware of the potential features. We’ll highlight a few key points:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Choose your personal plan:&lt;/strong&gt; It’s notable that Github has paid plans with various costs for associated “private” repositories. By default, everything on Github is public (often used for open-source projects). If you &lt;em&gt;don’t’&lt;/em&gt; want your code visible, you’ll need to pick a paid plan. But for now, it’s sufficient to select the &lt;em&gt;free&lt;/em&gt; plan. (After all, you &lt;strong&gt;want&lt;/strong&gt; your personal portfolio projects visible to the public.)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Help me set up an organization next:&lt;/strong&gt; It’s unlikely that you’re going to be running an organization on Github at this early phase, but if you plan to it &lt;em&gt;is&lt;/em&gt; a possibility and they’ll walk you through it if you check this button.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After selecting your preferences, click the “Finish sign up” button to advance to your Dashboard.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-github-dashboard&quot;&gt;Your Github Dashboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dashboard-welcome.png&quot; alt=&quot;&quot; title=&quot;Github Dashboard - Welcome&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You should be welcomed into the loving arms of the dashboard page. You’ll probably spend a reasonable time with some version of this page.&lt;/p&gt;
+
+&lt;p&gt;The first time you arrive here, you’ll likely have the welcome banner at the top, inviting you to get started with the &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;Hello World guide&lt;/a&gt;. While you don’t need to complete this immediately, I recommend completing this as a “next step” at the conclusion of this article.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dashboard-standard.png&quot; alt=&quot;&quot; title=&quot;Github Dashboard - Standard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can click the “X” button in the top-right of the “Get Started” banner to dismiss it (don’t fret, you can always return to the Hello World guide in the future with the link above).&lt;/p&gt;
+
+&lt;p&gt;You’re now staring at the standard dashboard page. As you use Github, this page transforms into a customized portal filled with activity from the projects you work on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-dashboard-customized.png&quot; alt=&quot;&quot; title=&quot;Github Dashboard - Customized&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;your-welcome-email&quot;&gt;Your Welcome Email&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-welcome-email.png&quot; alt=&quot;&quot; title=&quot;Github Welcome Email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like nearly every web service Github will send you a verification email. As stated click the large “Verify” button to launch a link in your browser, validating the email address for your account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-signin.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You may have to sign in for security purposes. After you do so, Github should present you with your dashboard and notification that your email was verified.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/getting-started/github/github-email-verified.png&quot; alt=&quot;&quot; title=&quot;Github Dashboard - Email Verified&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;We’ve learned how to create a Github account and explored the signup sequence. (These concepts form a basis of some tasks we’ll perform with your personal branding website in the future. So it’s fun and informative to experience them.)&lt;/p&gt;
+
+&lt;p&gt;If you haven’t already done so, I would recommend the following step(s) to gain additional familiarity with the Github service.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Github’s &lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;Hello World guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>curtis</name></author><category term="github" /><summary>Over the course of the past decade git claimed the throne as the de-facto standard distributed version control system. Likewise, Github surfaced as the canonical option to host both public and private source code repositories.</summary></entry><entry><title>Perfection is Iteration</title><link href="https://curtisspendlove.com/article/2016/02/11/perfection-is-iteration.html" rel="alternate" type="text/html" title="Perfection is Iteration" /><published>2016-02-11T00:00:00-07:00</published><updated>2016-02-11T00:00:00-07:00</updated><id>https://curtisspendlove.com/article/2016/02/11/perfection-is-iteration</id><content type="html" xml:base="https://curtisspendlove.com/article/2016/02/11/perfection-is-iteration.html">&lt;h2 id=&quot;we-are-developers-we-iterate&quot;&gt;We are developers. We iterate.&lt;/h2&gt;
+
+&lt;p&gt;I have a chronic roadblock: Perfection.&lt;/p&gt;
+
+&lt;p&gt;I strive for perfection. I desire it above all other things. I don’t like looking back at previous work and thinking “ugh!”.&lt;/p&gt;
+
+&lt;p&gt;This roadblock is bad enough when I’m pushing code to a private repository. It’s significantly worse when I post to a public repository.&lt;/p&gt;
+
+&lt;h2 id=&quot;developer-psychology&quot;&gt;Developer Psychology&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At its root, perfectionism isn’t really about a deep love of being meticulous. It’s about fear. Fear of making a mistake. Fear of disappointing others. Fear of failure. Fear of success.&lt;/p&gt;
+
+  &lt;p&gt;― Michael Law&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For me, this really is the root. Although I am meticulous and do strive for perfection, I let it jump in front of the emotional queue. At the surface this is a ridiculous emotion for a developer to feel. Over the two decades I have been coding I have hundreds of thousands of lines of code (maybe more) with my name attached.&lt;/p&gt;
+
+&lt;p&gt;I’ve often been questioned by a coworker about code and thought “ah, man, why did you have to look at &lt;em&gt;that&lt;/em&gt; method”. I’ve repsonded with a quick synopsys of the code and an apology that it was in a horrible condition that caused them to fix it. On a few occasions, it was actually really bad code and we all laughed it off as “one of those things that happens”. However, more often than not, a comment block resembled “no not at all, I’m just having issues with [xyz] today”.&lt;/p&gt;
+
+&lt;p&gt;The code block was fine as is, the bug might not have even been in that code. Yet I assumed that my code was bad and that I should feel bad for writing it.&lt;/p&gt;
+
+&lt;p&gt;I live in constant consternation. When will a light shine on a block of horrible code I wrote. Will a blog post get tossed on Reddit or Hacker News and I’ll get raked over the coals for completely missing a fundamental rule of programming.&lt;/p&gt;
+
+&lt;p&gt;I’ve heard from friends and colleagues: “How do you release work to the public. That would scare me to death.”&lt;/p&gt;
+
+&lt;p&gt;It does me too. But sometimes you just need to go, sometimes you just need to do.&lt;/p&gt;
+
+&lt;h2 id=&quot;adhd--ocd&quot;&gt;ADHD / OCD&lt;/h2&gt;
+
+&lt;p&gt;In order to compound this, Darwin decided to implant into my DNA pretendency toward ADHD and OCD. One time (at least it was off the clock) I spent nearly an hour trying to decide on the best name for a variable for a block of code I was writing. Who knew a club sandwich would inspire such deep contemplation?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Too many people spend too much time trying to perfect something before they actually do it. Instead of waiting for perfection, run with what you got, and fix it along the way…&lt;/p&gt;
+
+  &lt;p&gt;― Paul Arden&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nothing has to be perfect out of the gate. We can always iterate something. Even after it’s published, or pushed to production, we can iterate. This is the gift of modern technology.&lt;/p&gt;
+
+&lt;p&gt;There are a few instances in which we need to be extra careful up front, of course. For instance, this blog is published via RSS. When the code to generate these posts gets committed and pushed, the feed is regenerated. The feed subscribers get the updated post, as is, the next time they crawl the feed resource. There is no gaurantee if I update a given post that an RSS reader or feed service would ever pick up that modification.&lt;/p&gt;
+
+&lt;p&gt;There are, of course, ways around this. One way would be to take advantage of a feature allowing “drafts”. If a draft can be presented publically, but not part of an official postings page or feed until officially published, you’d be able to present this draft to smattering of users for feedback. When satisfied, you can officially publish it with more confidence. (Traditional media has the concept of an editorial staff for this procedure.)&lt;/p&gt;
+
+&lt;h2 id=&quot;future-thoughts&quot;&gt;Future Thoughts&lt;/h2&gt;
+
+&lt;p&gt;We’ll explore ways to minimize your risk and increase your confidence in the future. For today, I wanted to establish awareness of a potential emotional issue for knowledge workers.&lt;/p&gt;
+
+&lt;p&gt;As the primary function of this blog involves web development we will investigate a few options to support this workflow. Our first implementation will involve our jekyll codebase.&lt;/p&gt;</content><author><name>tricorius</name></author><category term="lifestyle" /><summary>We are developers. We iterate.</summary></entry></feed>

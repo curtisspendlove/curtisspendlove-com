@@ -1,0 +1,9 @@
+title: Curtis Spendlove
+url: "https://curtisspendlove.com"
+
+gems:
+- jekyll-sitemap
+- jekyll-feed
+
+markdown:
+  kramdown

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section>
+  <article class="type-system-geometric">
+    <h1><a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+    <p class="date">{{ page.date | date: "%b %-d, %Y" }}</p>
+    {{ content }}
+  </article>
+{% if jekyll.environment == 'development' %}
+  <footer>
+    <h1 class="panel-title">Debug Information:</h1>
+      <ul class="list-group">
+          <li class="list-group-item">Environment: {{jekyll.environment}}</li>
+          <li class="list-group-item">Word Count: {{page.content | number_of_words}}</li>
+      </ul>
+  </footer>
+{% endif %}
+</section>
+

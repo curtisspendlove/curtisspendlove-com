@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Set up Rails app. Run this script immediately after cloning the codebase.
+# https://github.com/thoughtbot/guides/tree/master/protocol
+
+# Set up Ruby dependencies
+bundle install
+
+# Set up staging and production git remotes
+# git remote add staging git@heroku.com:app-staging.git
+# git remote add production git@heroku.com:app-production.git
