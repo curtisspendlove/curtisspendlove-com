@@ -1,0 +1,9 @@
+To-Do:
+	Consulting:
+		- Move "Month" name inside the availability bars
+		- Add slight (light) border to availability bars, showing clearly week delineators
+	Articles:
+		- Polish "25M of Rock" @due(04-28-2016)
+	Jekyll:
+		- Add feature to "future" / "drafts" to specify a date limit
+			For instance, I'd like to be able to preview what my site will look like after tomorrow's build. I need to be able to project to a date in the future (next week, or Thursday to see that day's posts).

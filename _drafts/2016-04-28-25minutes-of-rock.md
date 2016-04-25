@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "25 Minutes of Rock"
-date:   2015-12-17
+date:   2016-04-28
 author: tricorius
 description: "25 minutes of rock"
 series: 25m-of-rock
@@ -37,7 +37,7 @@ I'm aware of my ... eclectic ... taste in music. I'm a little bit Country, a lit
   * Genre contains Rock
   * Genre contains Heavy Metal
   * Genre contains Alternative
-  
+
 I find that even my rock tastes are pretty diverse. I'm going to blame that on the fact that the music industry can't seem to decide what "Rock" means. Regardless, the combination of the above rules does a pretty good job filtering my Apple Music Library to a listing of music that I like.
 
 My wife recently made an observation she found humorous:
