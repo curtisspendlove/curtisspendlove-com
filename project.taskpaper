@@ -1,9 +1,17 @@
 To-Do:
-	Consulting:
-		- Move "Month" name inside the availability bars
-		- Add slight (light) border to availability bars, showing clearly week delineators
+	About:
+		- Move "Month" name inside the availability bars @done(2016-04-25)
+		- Add slight (light) border to availability bars, showing clearly week delineators @done(2016-04-25)
+		- Add Roadmap Sample
 	Articles:
-		- Polish "25M of Rock" @due(04-28-2016)
+		Publishing Schedule: Tuesday - Core Focus (DevOps), Thursday - Workflow (Tooling Post), Friday - Fun (Something to Stir the Pot or Kickoff a Good Weekend). Posts don't *have* to appear those days, but if I do write them (or have a backlog) they will be scheduled for building on those days of the week using the "future" feature of Jekyll.
+		- Polish "25M of Rock" @due(04-27-2016) @done(2016-04-27)
+		- Set "25M of Rock" to Post Thursday @due(04-27-2016) @done(2016-04-27)
+		Ideas:
+			- Walk through OS setups for Workflow article ideas (the OS Setup articles are great for this...highlight a few CLI tools or regular apps or whatever)
+			- Hardware reviews (like the Kinesis keyboard, trackball, etc)
 	Jekyll:
-		- Add feature to "future" / "drafts" to specify a date limit
+		- Add feature to "future" / "drafts" to specify a date limit @flag
 			For instance, I'd like to be able to preview what my site will look like after tomorrow's build. I need to be able to project to a date in the future (next week, or Thursday to see that day's posts).
+	
+	Dashboard @search(@due < 5d or @flag and not @done)

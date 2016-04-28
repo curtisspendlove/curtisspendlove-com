@@ -22,7 +22,7 @@ Over the years I've tried many different techniques for maintaining the state of
 
 Although strictly unnecessary, I find there are two core reasons why I *really* like the combination of using Apple Music with these playlists. I enjoy being able to arbitrarily add tracks, albums, or curated playlists to my music library. And I enjoy being able to "Love" songs.
 
-Yes, I know how it sounds. But I've never been a big fan of the five degrees of celestial glory rating system. I like this song, but how much do I like it? If I were stranded on a desert island with this song, I wouldn't be offering to kill sharks with my bare hands for its returned affection... I guess I like it three stars worth. Bleh. I'm a programmer. I'm binary.
+Yes, I know how it sounds. But I've never been a big fan of the "five degrees of celestial glory" rating system. I like this song, but how much do I like it? If I were stranded on a desert island with this song, I wouldn't be offering to kill sharks with my bare hands for its returned affection... I guess I like it three stars worth. Bleh. I'm a programmer. I'm binary.
 
 I'm fine liking, loving, favoriting, or otherwise indicating a simple on/off state expressing my undying devotion to a bit of digital information. Give me a thumbs-up, heart, star, bird, alien, syringe or whatever you want...but just give me *one* of them.
 
@@ -30,7 +30,7 @@ I'm fine liking, loving, favoriting, or otherwise indicating a simple on/off sta
 
 ## Playlists
 
-I'm aware of my ... eclectic ... taste in music. I'm a little bit Country, a little bit Rock 'n'n Roll (and a little bit Will Smith and Techno). But let's take the most socially-accepted playlist and go with it.
+I'm aware of my ... eclectic ... taste in music. I'm a little bit Country, a little bit Rock 'n' Roll (and a little bit Will Smith and Techno). But let's take the most socially-accepted playlist and go with it.
 
 * iCloud Status is Apple Music
 * Any of the following are true:
